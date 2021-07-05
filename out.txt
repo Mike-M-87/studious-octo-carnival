@@ -1,0 +1,56 @@
+EM00,Liam Noah,ST74,Montgomery,Alabama,43914,0716162150,11/11/2013,Account Executive,760439,Data visualization & pattern-finding through critical thinking,24,3
+EM01,Jackson Aiden,ST89,Juneau,Alaska,49676,0750270062,07/09/2013,Account Manager,523290,Web analytics,41,4
+EM02,Elijah Grayson,ST27,Phoenix,Arizona,63122,0794476020,01/05/2012,Marketing Account Analyst,21215,SEO marketing,53,1
+EM03,Lucas Oliver,ST59,Little Rock,Arkansas,43938,0763682204,02/01/2012,Director of Marketing Services,625206,Copywriting,39,3
+EM04,Caden Mateo,ST41,Sacramento,California,41003,0776360340,14/05/2013,Content Account Manager,84323,Storytelling,22,4
+EM05,Muhammad Mason,ST93,Denver,Colorado,51469,0746506434,18/08/2021,PPC Account Manager,539318,Project management,45,1
+EM06,Carter Jayden,ST83,Hartford,Connecticut,18110,0742179966,04/07/2012,SEO Account Manager,601162,Brand management,34,4
+EM07,Ethan Sebastian,ST79,Dover,Delaware,78275,0734767991,14/02/2016,Social Media Account Manager,44159,Brand management,56,4
+EM08,James Michael,ST62,Tallahassee,Florida,74703,0727286652,24/03/2017,SEM Account Manager,406408,CRO and A/B Testing,50,1
+EM09,Benjamin Logan,ST28,Atlanta,Georgia,61653,0751551347,11/12/2019,Web Developer,658232,Typing speed,22,3
+EM10,Leo Luca,ST57,Honolulu,Hawaii,33010,0755172361,06/09/2014,Database Designer,763715,Computer skills,40,3
+EM11,Alexander Levi,ST95,Boise,Idaho,30629,0741351356,21/04/2016,System Administrator,333602,Communication skills,54,3
+EM12,Daniel Josiah,ST82,Springfield,Illinois,81132,0789782778,01/01/2020,Chief marketing officer,397638,Leadership,34,3
+EM13,Henry Jayce,ST32,Indianapolis,Indiana,99105,0778998879,22/10/2020,Director of marketing,749898,Social media and mobile marketing,37,1
+EM14,Julian Jack,ST75,Des Moines,Iowa,72566,0796857868,10/02/2019,Marketing analyst,421659,Sales,30,3
+EM15,Ryan Jacob,ST49,Topeka,Kansas,82010,0764043927,15/07/2010,Marketing coordinator,43660,Search Engine and Keyword Optimization,46,1
+EM16,Asher Wyatt,ST65,Frankfort,Kentucky,77789,0796207705,12/01/2015,Marketing consultant,951318,Leadership,48,1
+EM17,William Owen,ST91,Baton Rouge,Louisiana,43719,0754899616,22/03/2012,Marketing manager,701072,The 4 P-s of Marketing,53,3
+EM18,Gabriel Miles,ST67,Augusta,Maine,74907,0731943036,03/08/2017,Marketing and promotions manager,952366,Web scraping,28,3
+EM19,Lincoln Ezra,ST72,Annapolis,Maryland	,28897,0722951689,27/06/2013,Marketing specialist,378868,Web analytics,52,3
+EM20,Isaiah Luke,ST49,Boston,Massachusetts,83633,0778353114,04/09/2017,Vice president of marketing,71479,Creativity,59,3
+EM21,Cameron Caleb,ST95,Lansing,Michigan,54782,0774716423,11/05/2011,Brand activation manager,373596,Creativity,38,4
+EM22,Isaac Carson,ST62,Saint Paul,Minnesota,13771,0788293459,22/09/2012,Brand manager,812486,Consumer Behavior Drivers,33,1
+EM23,Samuel Colton,ST35,Jackson,Mississippi,88771,0783351907,08/04/2020,Brand marketing manager,567430,Perseverance,26,1
+EM24,Maverick Matthew,ST57,Jefferson City,Missouri,18389,0722922902,04/06/2010,Brand strategist,511307,Social media and mobile marketing,33,4
+EM25,Sophia Olivia,ST83,Helena,Montana,55784,0778700478,06/12/2017,Director of brand marketing,934649,Team working,42,4
+EM26,Riley Emma,ST46,Lincoln,Nebraska,19226,0762934426,20/12/2019,Director of brand strategy,911789,Web scraping,55,3
+EM27,Ava Isabella,ST93,Carson City,Nevada,33766,0773475018,02/05/2010,Content director,353423,Creativity,31,1
+EM28,Aria Aaliyah,ST88,Concord,New Hampshire,78492,0737860684,24/09/2020,Content manager,340427,Leadership,50,4
+EM29,Amelia Mia,ST28,Trenton,New Jersey,74466,0761789201,12/10/2016,Content marketing manager,464720,Typing speed,48,4
+EM30,Layla Zoe,ST92,Santa Fe,New Mexico,87232,0752065002,02/01/2012,Content marketing producer,203373,Perseverance,29,1
+EM31,Camilla Charlott,ST47,Albany,New York,17323,0797194386,10/02/2017,Content specialist,160482,Email marketing,52,4
+EM32,Eliana Mila,ST59,Raleigh,North Carolina,11339,0776556537,26/03/2021,Content strategist,455173,A good work ethic,21,4
+EM33,Everly Luna,ST71,Bismarck,North Dakota,62319,0746724779,02/07/2019,Content writer,258001,Creativity,29,4
+EM34,Avery Evelyn,ST88,Columbus,Ohio,58645,0788842415,02/09/2019,Digital marketing manager,221057,CMS Tools,49,1
+EM35,Harper Lily,ST59,Oklahoma City,Oklahoma,50610,0765962943,26/10/2012,Digital strategist,762020,Adaptability,50,4
+EM36,Ella Gianna,ST57,Salem,Oregon,41384,0783382525,27/07/2012,Director of digital marketing,912014,Project/campaign management,44,4
+EM37,Chloe Adalyn,ST82,Harrisburg,Pennsylvania,73355,0726349673,22/09/2016,Director of web marketing,271905,Project management,36,4
+EM38,Charlie Isla,ST71,Providence,Rhode Island,85405,0795299686,23/05/2010,Director of SEO operations,842392,Project/campaign management,23,1
+EM39,Ellie Leah,ST71,Columbia,South Carolina,29258,0790978179,09/05/2021,Internet marketing specialist,893686,HTML & CSS,41,3
+EM40,Nora Scarlett,ST76,Pierre,South Dakota,12308,0765192830,11/03/2020,Internet marketing specialist,364463,,26,1
+EM41,Maya Abigail,ST64,Nashville,Tennessee,87279,0731213644,19/11/2011,Paid search manager,422090,Project/campaign management,36,1
+EM42,Madison Aubrey,ST80,Austin,Texas,76497,0786623430,28/04/2018,Pay-per-click manager,318105,,22,1
+EM43,Emily Kinsley,ST98,Salt Lake City,Utah,31689,0741547369,12/06/2015,SEM manager,791724,Social media and mobile marketing,56,3
+EM44,Elena Paisley,ST34,Montpelier,Vermont,55370,0745002325,02/05/2018,SEM specialist,287207,Web scraping,48,1
+EM45,Madelyn Aurora,ST25,Richmond,Virginia,67362,0763262973,16/01/2012,SEO manager,849474,Problem solving,30,4
+EM46,Peyton Nova,ST43,Olympia,Washington,54558,0757113273,07/12/2012,SEO specialist,857699,CRO and A/B Testing,52,3
+EM47,Emilia Hannah,ST49,Charleston,West Virginia,70326,0770053752,15/10/2010,Web marketing manager,411012,Leadership,59,4
+EM48,Sarah Ariana,ST90,Madison,Wisconsin,71130,0784693389,04/02/2012,Web marketing specialist,296552,Email marketing,42,3
+EM49,Penelope Lila,ST24,Cheyenne,Wyoming,67562,0783212833,16/07/2017,Campaign manager,266005,CMS Tools,36,4
+EM50,Gloria Chebet,ST34,Nairobi,Nairobi,10969,0732386877,10/09/2018,Demand generation manager,389491,Perseverance,23,1
+EM51,Mike Nandi,ST91,Kiambu,Ruiru,12342,0712074443,06/05/2011,Director of email marketing,431377,Project/campaign management,33,4
+EM52,Jotham Kinyua,ST40,Coast,Mombasa,29062,0736852424,22/01/2010,Ecommerce content specialist,765645,Adaptability,23,3
+EM53,Brian Mariara,ST87,Kajiado,Rongai,67678,0793931232,01/10/2019,Ecommerce marketing analyst,165482,Data visualization & pattern-finding through critical thinking,50,4
+EM54,Iphrahim Buyabo,ST90,Nairobi,Westlands,41595,0731815016,16/03/2018,Ecommerce marketing director,350320,SEO/SEM,48,3
+EM55,Frank Stanley,ST63,Coast,Kilifi,60012,0787007925,07/12/2014,Ecommerce marketing manager,593820,Consumer Behavior Drivers,51,3
