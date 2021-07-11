@@ -15,6 +15,7 @@ noatton = 30
 
 
 for i in range(1,30*2,2):
+    aid     = (i//2)+1
     address = random.choice(addresses)
     name    = names[i] +' ' + names[i+1]
     city    = random.choice(cities)
@@ -22,5 +23,5 @@ for i in range(1,30*2,2):
     speacial= random.choice(specialties)
     bar     = random.choice(barz) 
 
-    formatted = f"{name},{address},{city},{zip},{speacial},{bar}"
+    formatted = f"{aid},{name},{address},{city},{zip},{speacial},{bar}"
     print(formatted)
