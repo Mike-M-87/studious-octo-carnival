@@ -1,0 +1,56 @@
+1,Constantine Lucas,0777444105,Algiers,Raleigh,84175,0777444105,04/02/2021,Account Executive,301678,Perseverance,33,3
+2,Rio Shepherd,0778039904,Cairo,Ohio,59344,0778039904,21/09/2017,System Administrator,485013,Typing speed,46,2
+3,Caspian Ellison,0727501733,Dodoma,Montana,12867,0727501733,25/02/2015,Director of web marketing,943265,Sales,40,3
+4,Auden West,0778144580,Mamoudzou,Coast,57358,0778144580,21/03/2020,Marketing specialist,867759,Typing speed,44,3
+5,Chester Aurelio,0751426781,Pretoria,Saint Paul,54760,0751426781,08/06/2018,Brand manager,268652,A good work ethic,34,1
+6,Baxter Willis,0734477761,Libreville,California,74031,0734477761,16/10/2019,Content marketing producer,347866,Brand management,31,3
+7,Baker Leopold,0727732945,Nairobi,Mombasa,25525,0727732945,08/09/2019,Internet marketing specialist,190220,HTML & CSS,36,1
+8,Teo Stellan,0789875678,Tunis,Annapolis,11705,0789875678,20/01/2017,SEM Account Manager,204624,Copywriting,31,2
+9,Roscoe Bram,0758946706,Mbabane,Richmond,47798,0758946706,13/06/2016,Director of Marketing Services,164056,Coding ability,36,2
+10,Cassidy Penn,0742568012,Abuja,Saint Paul,90475,0742568012,23/05/2020,Corporate communications assistant,614784,,39,3
+11,Octavius Slater,0742246308,Niamey,Tennessee,68934,0742246308,11/11/2017,Marketing specialist,938085,Data visualization & pattern-finding through critical thinking,36,2
+12,True Nile,0745408696,Yaoundé,Kilifi,54397,0745408696,20/09/2020,Email operations manager,309589,Consumer Behavior Drivers,28,1
+13,Pax Everest,0750416452,Niamey,Austin,64776,0750416452,20/02/2016,Marketing specialist,30819,Creativity,50,3
+14,Rufus Orson,0766485260,Mbabane,Nairobi,90020,0766485260,08/09/2020,Database Designer,460222,Bookkeeping,26,3
+15,Casimir Laszlo,0786821787,Brazzaville,Juneau,75795,0786821787,27/07/2017,Email developer,154511,Copywriting,29,1
+16,Hawk Pascal,0785088960,Monrovia,,63066,0785088960,22/01/2021,Director of brand strategy,944496,SEO marketing,27,2
+17,Fitzgerald Shaw,0781568440,Kigali,Olympia,18454,0781568440,13/11/2020,Account Manager,673519,Computer skills,27,1
+18,Mercer Ozias,0762073241,Bangui,West Virginia,48060,0762073241,05/08/2021,Director of market research,660273,Communication skills,52,3
+19,Bowie Larson,0716747229,Maputo,Madison,22863,0716747229,07/09/2019,Product research analyst,331176,The 4 P-s of Marketing,60,3
+20,Cosmo Ellington,0715361855,São Tomé,Tallahassee,52951,0715361855,22/10/2020,Product research analyst,776759,Leadership,24,1
+21,Hart Laird,0755934086,Bangui,Austin,98434,0755934086,07/03/2021,Content director,743095,Web analytics,60,1
+22,Griffith Whit,0738434941,Libreville,Baton Rouge,44658,0738434941,12/01/2015,Chief marketing officer,449476,Project/campaign management,35,2
+23,Maguire Rafferty,0737776160,Monrovia,Denver,65178,0737776160,22/02/2019,Content marketing manager,259675,HTML & CSS,35,2
+24,Sacha Florian,0758617549,Santa Cruz ,Hartford,10884,0758617549,01/09/2017,Director of marketing,78024,Brand management,27,1
+25,Peregrine Noah,0755609056,Porto-Novo,Raleigh,57487,0755609056,22/03/2016,Demand generation manager,963475,Paid social media advertisements,31,3
+26,Jackson Aiden,0732458217,Bamako,Austin,30614,0732458217,16/07/2015,Database Designer,464101,Social media and mobile marketing,34,1
+27,Elijah Grayson,0774387658,Nairobi,Michigan,89805,0774387658,16/11/2015,Email marketer,618795,Foreign language,21,3
+28,Lucas Oliver,0777809803,Rabat,Pennsylvania,11475,0777809803,24/09/2019,Content strategist,392189,Email marketing,51,1
+29,Caden Mateo,0741236408,Gaborone,Harrisburg,72274,0741236408,07/12/2021,Content Account Manager,325671,Storytelling,55,1
+30,Muhammad Mason,0720456163,Lobamba,Oregon,54550,0720456163,01/11/2015,,443281,B2B Marketing,52,2
+31,Carter Jayden,0760461140,Monrovia,Montgomery,56014,0760461140,24/11/2021,Pay-per-click manager,671472,Wordpress,42,2
+32,Ethan Sebastian,0763564189,Bloemfontein,Coast,24983,0763564189,13/09/2017,Brand marketing manager,552944,HTML & CSS,59,3
+33,James Michael,0762186202,Hargeisa,Columbus,46229,0762186202,12/04/2021,Corporate communications manager,984998,Wordpress,36,3
+34,Benjamin Logan,0717129235,Mogadishu,Colorado,43151,0717129235,07/07/2019,Digital strategist,233160,Data visualization & pattern-finding through critical thinking,47,1
+35,Leo Luca,0751263966,Abidjan,Wisconsin,12269,0751263966,03/05/2021,Brand activation manager,719500,Effective communication,34,1
+36,Alexander Levi,0789140791,Abuja,Ruiru,28928,0789140791,01/06/2016,Content manager,538313,Consumer Behavior Drivers,27,3
+37,Daniel Josiah,0730855007,Lilongwe,Wisconsin,62068,0730855007,14/01/2017,Market research interviewer,959348,Web analytics,59,1
+38,Henry Jayce,0768711215,Santa Cruz ,Carson City,49683,0768711215,01/11/2017,SEM Account Manager,998719,Consumer Behavior Drivers,22,1
+39,Julian Jack,0760690383,Moroni,,43592,0760690383,07/04/2017,Internet marketing specialist,912772,Communication skills,55,2
+40,Ryan Jacob,0743547186,Niamey,Alabama,53139,0743547186,26/12/2017,Content strategist,478833,Communication skills,25,3
+41,Asher Wyatt,0756631159,Yamoussoukro,Springfield,81019,0756631159,05/01/2016,Content manager,676473,CMS Tools,31,1
+42,William Owen,0725295599,Kigali,Cheyenne,76555,0725295599,22/01/2018,Ecommerce marketing analyst,63395,Data analysis,32,1
+43,Gabriel Miles,0741147004,Lusaka,Salem,72202,0741147004,07/03/2016,System Administrator,615847,HTML & CSS,55,1
+44,Lincoln Ezra,0710074943,Bangui,Nairobi,38913,0710074943,11/08/2016,Chief marketing officer,319769,CRO and A/B Testing,24,3
+45,Isaiah Luke,0714144652,Nairobi,Frankfort,90109,0714144652,05/03/2021,Corporate communications assistant,822207,CRO and A/B Testing,57,2
+46,Cameron Caleb,0733283737,Yaoundé,Nevada,75227,0733283737,02/01/2020,Content specialist,470690,Project/campaign management,28,1
+47,Isaac Carson,0764677183,Nouakchott,Texas,67558,0764677183,06/11/2018,Marketing data analyst,312294,SEO/SEM,31,2
+48,Samuel Colton,0789095351,Addis Ababa,Charleston,19950,0789095351,20/01/2020,Content manager,719050,Foreign language,38,1
+49,Maverick Matthew,0756423920,Tripoli,Tennessee,77892,0756423920,13/06/2020,Pay-per-click manager,276591,Copywriting,54,3
+50,Sophia Olivia,0777662871,Santa Cruz ,Illinois,37538,0777662871,23/08/2020,SEO specialist,486525,Social media and mobile marketing,38,2
+51,Riley Emma,0792607399,Hargeisa,Trenton,92453,0792607399,01/12/2020,Content specialist,23018,Proofreading,45,2
+52,Ava Isabella,0711867733,Nouakchott,North Dakota,91141,0711867733,15/05/2020,Content writer,4882,Team working,52,3
+53,Aria Aaliyah,0747998952,Monrovia,New Mexico,98264,0747998952,27/10/2018,Ecommerce marketing director,804770,A good work ethic,46,1
+54,Amelia Mia,0760256465,Dakar,Oklahoma,71722,0760256465,14/11/2018,Director of email marketing,790268,HTML & CSS,23,1
+55,Layla Zoe,0764865519,Maputo,Nashville,25952,0764865519,03/02/2019,Content director,771792,Brand management,57,3
+56,Camilla Charlott,0767767092,Nairobi,Michigan,90469,0767767092,08/10/2019,Marketing consultant,917573,Social media and mobile marketing,50,3

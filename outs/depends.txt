@@ -1,0 +1,30 @@
+1,María Guadalupe María,21,Daughter,46
+2,Juana María del Carmen,26,Aunt,49
+3,Margarita Verónica,28,Aunt,26
+4,Elizabeth Alejandra,35,Cousin,40
+5,Leticia María Elena,56,Mother,34
+6,Gabriela María de los Ángeles,35,Daughter,28
+7,Patricia Josefina,30,Cousin,37
+8,María de Jesús Rosa María,21,Son,45
+9,Rosa Alicia,26,Brother,36
+10,Teresa Francisca,39,Daughter,46
+11,Adriana Yolanda,57,Daughter,23
+12,Martha María Isabel,52,Daughter,4
+13,Silvia Ana María,27,Mother,5
+14,María del Rosario Gloria,30,Mother,33
+15,Araceli María Luisa,28,Daughter,38
+16,José Luis Juan,26,Son,11
+17,Miguel Ángel José,34,Father,5
+18,Francisco Jesús,56,Aunt,30
+19,Antonio Alejandro,28,Sister,46
+20,Pedro Juan Carlos,30,Brother,12
+21,Manuel Ricardo,36,Sister,12
+22,Daniel Fernando,39,Mother,3
+23,Jorge Roberto,46,Cousin,13
+24,Carlos Francisco Javier,54,Daughter,41
+25,Eduardo Javier,23,Mother,8
+26,Miguel Martín,48,Sister,28
+27,Rafael Marco Antonio,21,Sister,29
+28,José Antonio Raúl,54,Daughter,5
+29,Arturo David,53,Father,6
+30,Gerardo Juan Manuel,29,Sister,42

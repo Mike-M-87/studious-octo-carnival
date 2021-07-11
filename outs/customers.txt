@@ -1,0 +1,56 @@
+1,Constantine Lucas,11 Briarwood Ave.,Washington,Accra,52140,0794320004,08/07/1961,Spanish
+2,Rio Shepherd,,Montpelier,Lobamba,77133,0750506378,19/01/1949,Hindi
+3,Caspian Ellison,918 Mayfield St.,Lansing,Pretoria,47664,0736202530,01/03/1933,Chinese
+4,Auden West,Kingston NY 12401,Dover,Cairo,24918,0772715834,21/11/1996,Hindi
+5,Chester Aurelio,Manchester NH 03102,Nairobi,Hargeisa,24210,0730492756,11/04/1979,Chinese
+6,Baxter Willis,Pembroke Pines FL 33028,Indianapolis,Mbabane,80833,0767258586,15/07/1942,Chinese
+7,Baker Leopold,Plainview NY 11803,Madison,Lobamba,76959,0759763972,12/12/1965,Chinese
+8,Teo Stellan,Simpsonville SC 29680,Montana,Nouakchott,30537,0752093913,17/10/1993,Chinese
+9,Roscoe Bram,90 Theatre Road,Ohio,Maputo,68454,0784308960,11/03/1969,Spanish
+10,Cassidy Penn,8315 Roehampton Road,Santa Fe,Lilongwe,66536,0739582686,22/05/1983,Hindi
+11,Octavius Slater,Westwood NJ 07675,Georgia,Maputo,68583,0787035964,18/08/2006,Kiswahili
+12,True Nile,Simpsonville SC 29680,Richmond,Porto-Novo,60846,0722498484,03/09/1937,Hindi
+13,Pax Everest,290 East Swanson Dr.,Alaska,Khartoum,94658,0757660452,14/04/1994,Kiswahili
+14,Rufus Orson,146 W. Sugar Street,Arizona,Antananarivo,72101,0778338784,06/09/2013,Spanish
+15,Casimir Laszlo,76 North Street,Topeka,Porto-Novo,75406,0767221194,21/07/1975,Hindi
+16,Hawk Pascal,Fort Myers FL 33905,South Dakota,Bloemfontein,24763,0783773504,15/07/1999,Chinese
+17,Fitzgerald Shaw,Tampa FL 33604,Concord,Funchal,51206,0757078747,26/07/1974,English
+18,Mercer Ozias,Liverpool NY 13090,Augusta,N'Djamena,40043,0731800554,01/08/1939,Kiswahili
+19,Bowie Larson,Atwater CA 95301,California,Saint-Denis,63066,0756790164,09/08/2014,English
+20,Cosmo Ellington,92 Pulaski Lane,Helena,Tripoli,53014,0712994300,02/09/1932,Hindi
+21,Hart Laird,9350 Lilac Rd.,Coast,Kinshasa,48024,0720504826,18/09/1959,French
+22,Griffith Whit,336 St Paul St.,Springfield,São Tomé,44483,0727235900,07/12/2001,English
+23,Maguire Rafferty,Tacoma WA 98444,Ruiru,Kinshasa,51497,0759039430,25/09/1973,Spanish
+24,Sacha Florian,69 South Grand Avenue,Kentucky,Port Louis,67403,0768766447,13/12/1948,Kiswahili
+25,Peregrine Noah,246 Clinton Drive,New Mexico,Windhoek,56010,0797382466,04/03/1983,Chinese
+26,Jackson Aiden,41 Blue Spring Court,Nevada,Victoria,74359,0776003116,24/03/2005,English
+27,Elijah Grayson,9213 Hawthorne Avenue,Mississippi,Antananarivo,29336,0757681827,20/02/1930,English
+28,Lucas Oliver,Conyers GA 30012,Lincoln,Harare,70404,0779557367,13/11/1992,English
+29,Caden Mateo,71 South Golden Star St.,Boise,Djibouti,42891,0726174924,21/05/1963,Kiswahili
+30,Muhammad Mason,Round Lake IL 60073,Wyoming,,11783,0736510983,04/06/1961,Hindi
+31,Carter Jayden,48 Delaware St.,Bismarck,Dakar,74382,0746485071,25/08/1931,Hindi
+32,Ethan Sebastian,338 Park Street,Nashville,Lomé,73802,0764502636,25/09/1977,Hindi
+33,James Michael,573 Stillwater St.,Coast,Tunis,74909,0754848380,06/09/1999,Kiswahili
+34,Benjamin Logan,45 Chestnut Street,Virginia,Nouakchott,38107,0783925726,10/09/1938,Chinese
+35,Leo Luca,13 East Paris Hill Drive,Maine,Accra,78574,0713910555,05/07/1973,Chinese
+36,Alexander Levi,Manitowoc WI 54220,North Carolina,,70241,0761509145,21/08/1960,Spanish
+37,Daniel Josiah,Fremont OH 43420,Lansing,Maputo,39240,0731863605,04/02/1971,Chinese
+38,Henry Jayce,Fairfax VA 22030,Massachusetts,Nairobi,53099,0756550357,13/01/1941,Hindi
+39,Julian Jack,42 Hamilton Street,Alabama,Bissau,25503,0733793170,19/11/2015,French
+40,Ryan Jacob,San Lorenzo CA 94580,Nairobi,São Tomé,34371,0763752349,02/08/1989,Chinese
+41,Asher Wyatt,Chandler AZ 85224,Providence,Yaoundé,48014,0741504976,09/02/1944,Hindi
+42,William Owen,154 Sierra Dr.,Missouri,Porto-Novo,94427,0744482030,04/03/1966,Kiswahili
+43,Gabriel Miles,8374 East Brown Ave.,Utah,Abuja,21751,0753137675,07/11/1937,Spanish
+44,Lincoln Ezra,Far Rockaway NY 11691,Michigan,Praia,64250,0792953614,28/08/1962,Kiswahili
+45,Isaiah Luke,11 East Bayberry Street,Concord,Antananarivo,67158,0783821625,02/05/2011,Spanish
+46,Cameron Caleb,840 Warren Street,Indianapolis,Nairobi,82554,0740761988,04/01/1935,Hindi
+47,Isaac Carson,7250 Trusel St.,Florida,Rabat,82866,0749838654,20/09/1936,Spanish
+48,Samuel Colton,107 Valley Road,Des Moines,Tripoli,66149,0761673269,01/05/1965,Hindi
+49,Maverick Matthew,8315 Roehampton Road,South Dakota,Harare,89743,0734583689,11/07/2009,Hindi
+50,Sophia Olivia,Westford MA 01886,Harrisburg,Windhoek,12157,0791936879,14/08/1975,Kiswahili
+51,Riley Emma,Chicago IL 60621,South Dakota,Yaoundé,67555,0719450980,06/08/1991,French
+52,Ava Isabella,44 West St.,Nashville,Khartoum,48279,0745327010,17/11/1954,English
+53,Aria Aaliyah,7971 Golf Dr.,Springfield,Abuja,78695,0762021129,01/09/1940,Kiswahili
+54,Amelia Mia,Newton NJ 07860,Wyoming,São Tomé,81268,0761273894,14/12/1995,English
+55,Layla Zoe,350 Deerfield Rd.,Madison,Nouakchott,49740,0795145561,28/12/1989,Spanish
+56,Camilla Charlott,225 Glenwood Rd.,Maryland,Port Louis,99118,0753554739,25/11/1948,Chinese

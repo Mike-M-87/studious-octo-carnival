@@ -1,0 +1,25 @@
+1,Margarita Veronica,45,Sister,4
+2,Elizabeth Alejandra,31,Father,14
+3,Leticia Maria,54,Mother,9
+4,Elena Gabriela,30,Brother,3
+5,Patricia Josefina,35,Cousin,39
+6,Rosa Alicia,39,Mother,19
+7,Teresa Francisca,45,Father,48
+8,Adriana Yolanda,23,Cousin,14
+9,Martha Silvia,53,Sister,20
+10,Ana Gloria,41,Sister,1
+11,Araceli Luisa,22,Daughter,47
+12,Jose Juan,45,Cousin,50
+13,Miguel Angel,57,Son,4
+14,Jose Francisco,31,Son,47
+15,Jesus Antonio,55,Father,31
+16,Alejandro Pedro,28,Cousin,49
+17,Juan Carlos Manuel,32,Son,46
+18,Ricardo Daniel,51,Sister,5
+19,Fernando Jorge,37,Sister,43
+20,Roberto Carlos,35,Father,32
+21,Francisco Javier,55,Mother,1
+22,Eduardo Miguel,57,Aunt,6
+23,Martin Rafael,25,Brother,41
+24,Marco Antonio,56,Father,35
+25,Jose Raul,33,Mother,4

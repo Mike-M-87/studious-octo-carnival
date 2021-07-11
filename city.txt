@@ -1,4 +1,39 @@
 Alabama
+Providence
+South Carolina
+Columbia
+South Dakota
+Pierre
+Tennessee
+Nashville
+Texas
+Austin
+Utah
+Salt Lake City
+Vermont
+Montpelier
+Virginia
+Richmond
+Washington
+Olympia
+West Virginia
+Charleston
+Wisconsin
+Madison
+Wyoming
+Cheyenne
+Nairobi
+Nairobi
+Ruiru
+Kiambu
+Mombasa
+Coast
+Rongai
+Kajiado
+Westlands
+Nairobi
+Kilifi
+Coast
 Montgomery
 Alaska
 Juneau
@@ -36,7 +71,7 @@ Louisiana
 Baton Rouge
 Maine
 Augusta
-Maryland	
+Maryland
 Annapolis
 Massachusetts
 Boston
@@ -75,38 +110,3 @@ Salem
 Pennsylvania
 Harrisburg
 Rhode Island
-Providence
-South Carolina
-Columbia
-South Dakota
-Pierre
-Tennessee
-Nashville
-Texas
-Austin
-Utah
-Salt Lake City
-Vermont
-Montpelier
-Virginia
-Richmond
-Washington
-Olympia
-West Virginia
-Charleston
-Wisconsin
-Madison
-Wyoming
-Cheyenne
-Nairobi
-Nairobi
-Ruiru
-Kiambu
-Mombasa
-Coast
-Rongai
-Kajiado
-Westlands
-Nairobi
-Kilifi
-Coast
