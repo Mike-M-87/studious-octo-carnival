@@ -1,0 +1,64 @@
+Abuja
+Accra
+Addis Ababa
+Algiers
+Antananarivo
+Asmara
+Bamako
+Bangui
+Banjul
+Bissau
+Brazzaville
+Cairo
+Conakry
+Dakar
+Djibouti
+Dodoma
+Freetown
+Funchal
+Gaborone
+Gitega
+Harare
+Hargeisa
+Jamestown
+Juba
+Kampala
+Khartoum
+Kigali
+Kinshasa
+Libreville
+Lilongwe
+Lomé
+Luanda
+Lusaka
+Malabo
+Mamoudzou
+Maputo
+Maseru
+Mbabane
+Lobamba
+Mogadishu
+Monrovia
+Moroni
+Nairobi
+N'Djamena
+Niamey
+Nouakchott
+Ouagadougou
+Port Louis
+Porto-Novo
+Praia
+Pretoria
+Cape Town
+Bloemfontein
+Rabat
+Saint-Denis
+Santa Cruz 
+São Tomé
+Tripoli
+Tunis
+Victoria
+Windhoek
+Yamoussoukro
+Abidjan
+Yaoundé
